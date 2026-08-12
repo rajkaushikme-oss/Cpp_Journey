@@ -16,4 +16,5 @@ int main(){
     }
     
     cout << numGrid[2][1];
+    return 0;
 }

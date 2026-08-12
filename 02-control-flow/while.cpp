@@ -18,5 +18,6 @@ int main(){
         cout << index << endl;
         index++;
     }while(index <= 5);
+    return 0;
 }
 
